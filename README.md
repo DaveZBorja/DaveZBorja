@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @DaveZBorja
+- 
 -   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+-   
 - 👀 I’m interested in embedded system programming 
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on embedded system programming
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me dave.borja@cbsua.edu.ph
+
 
  <h2 align="center"><b>Github Stats</b></h2>
 </br>
