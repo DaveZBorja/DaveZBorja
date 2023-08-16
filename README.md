@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaveZBorja
 
-- https://giphy.com/gifs/animation-loop-3o6UBedJJfaxXHvZyU/fullscreen
+- <img align="right" alt="GIF" src="https://giphy.com/gifs/animation-loop-3o6UBedJJfaxXHvZyU/fullscreen"/>
 -   <-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 - 👀 I’m interested in embedded system programming 
 - 🌱 I’m currently learning data analytics
