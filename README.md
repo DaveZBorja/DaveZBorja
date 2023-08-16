@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DaveZBorja
-
-- <iframe src="https://giphy.com/embed/3o6UBedJJfaxXHvZyU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-loop-3o6UBedJJfaxXHvZyU">via GIPHY</a></p>
--   <-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 - 👀 I’m interested in embedded system programming 
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on embedded system programming
