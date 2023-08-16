@@ -13,7 +13,7 @@
 </br>
 <p align="center">
 <a href="https://github.com/DaveZBorja/">
-<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=officialpm&theme=dark" alt="officalpm"/>
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=DaveZBorja&theme=transparent)](https://git.io/streak-stats"/>
 </a>
 </p>
 </br>
